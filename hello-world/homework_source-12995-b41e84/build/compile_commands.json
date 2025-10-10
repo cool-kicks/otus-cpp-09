@@ -1,0 +1,20 @@
+[
+{
+  "directory": "E:/prog/otus_source/homework_source-12995-b41e84/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\hello_world.dir\\hello_world.cpp.obj -c E:\\prog\\otus_source\\homework_source-12995-b41e84\\homework_source\\hello_world.cpp",
+  "file": "E:/prog/otus_source/homework_source-12995-b41e84/homework_source/hello_world.cpp",
+  "output": "CMakeFiles/hello_world.dir/hello_world.cpp.obj"
+},
+{
+  "directory": "E:/prog/otus_source/homework_source-12995-b41e84/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\hello_world.dir\\example.cpp.obj -c E:\\prog\\otus_source\\homework_source-12995-b41e84\\homework_source\\example.cpp",
+  "file": "E:/prog/otus_source/homework_source-12995-b41e84/homework_source/example.cpp",
+  "output": "CMakeFiles/hello_world.dir/example.cpp.obj"
+},
+{
+  "directory": "E:/prog/otus_source/homework_source-12995-b41e84/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\hello_world.dir\\move_me_out.cpp.obj -c E:\\prog\\otus_source\\homework_source-12995-b41e84\\homework_source\\move_me_out.cpp",
+  "file": "E:/prog/otus_source/homework_source-12995-b41e84/homework_source/move_me_out.cpp",
+  "output": "CMakeFiles/hello_world.dir/move_me_out.cpp.obj"
+}
+]
