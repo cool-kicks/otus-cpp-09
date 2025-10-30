@@ -1,0 +1,20 @@
+[
+{
+  "directory": "E:/prog/otus_source/03.homework_source-12995-dca15c/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\game.dir\\high_scores.cpp.obj -c E:\\prog\\otus_source\\03.homework_source-12995-dca15c\\high_scores.cpp",
+  "file": "E:/prog/otus_source/03.homework_source-12995-dca15c/high_scores.cpp",
+  "output": "CMakeFiles/game.dir/high_scores.cpp.obj"
+},
+{
+  "directory": "E:/prog/otus_source/03.homework_source-12995-dca15c/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\game.dir\\random_value.cpp.obj -c E:\\prog\\otus_source\\03.homework_source-12995-dca15c\\random_value.cpp",
+  "file": "E:/prog/otus_source/03.homework_source-12995-dca15c/random_value.cpp",
+  "output": "CMakeFiles/game.dir/random_value.cpp.obj"
+},
+{
+  "directory": "E:/prog/otus_source/03.homework_source-12995-dca15c/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\game.dir\\check_value.cpp.obj -c E:\\prog\\otus_source\\03.homework_source-12995-dca15c\\check_value.cpp",
+  "file": "E:/prog/otus_source/03.homework_source-12995-dca15c/check_value.cpp",
+  "output": "CMakeFiles/game.dir/check_value.cpp.obj"
+}
+]

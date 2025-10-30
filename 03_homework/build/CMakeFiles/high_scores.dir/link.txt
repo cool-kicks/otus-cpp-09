@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\high_scores.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\high_scores.dir/objects.a @CMakeFiles\high_scores.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\high_scores.dir/objects.a -Wl,--no-whole-archive -o high_scores.exe -Wl,--out-implib,libhigh_scores.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\high_scores.dir\linkLibs.rsp
