@@ -2,14 +2,14 @@
 #include "check_value.h"
 #include "random_value.h"
 
-int check_foo() {
+int check_foo(int max_value) {
 
 	
 	
-	int rv = random_value_foo();
-	//const int target_value = 54;
+	int rv = random_value_foo(max_value);
+	
 	int current_value = 0;
-	//bool not_win = true;
+
 	int count_attempt = 0;
 
 	std::cout << "Enter your guess:" << std::endl;
