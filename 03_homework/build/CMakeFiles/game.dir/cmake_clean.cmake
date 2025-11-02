@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/game.dir/check_value.cpp.obj.d"
   "CMakeFiles/game.dir/high_scores.cpp.obj"
   "CMakeFiles/game.dir/high_scores.cpp.obj.d"
+  "CMakeFiles/game.dir/load_save_table.cpp.obj"
+  "CMakeFiles/game.dir/load_save_table.cpp.obj.d"
   "CMakeFiles/game.dir/random_value.cpp.obj"
   "CMakeFiles/game.dir/random_value.cpp.obj.d"
   "game.exe"

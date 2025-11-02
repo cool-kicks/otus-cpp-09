@@ -1,4 +1,4 @@
-# Install script for directory: E:/prog/otus_source/03.homework_source-12995-dca15c
+# Install script for directory: E:/prog/otus_source/03_homework
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,7 +40,7 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "E:/prog/otus_source/03.homework_source-12995-dca15c/build/install_local_manifest.txt"
+  file(WRITE "E:/prog/otus_source/03_homework/build/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 if(CMAKE_INSTALL_COMPONENT)
@@ -56,6 +56,6 @@ else()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "E:/prog/otus_source/03.homework_source-12995-dca15c/build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "E:/prog/otus_source/03_homework/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

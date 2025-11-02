@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = E:\prog\otus_source\03.homework_source-12995-dca15c
+CMAKE_SOURCE_DIR = E:\prog\otus_source\03_homework
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = E:\prog\otus_source\03.homework_source-12995-dca15c\build
+CMAKE_BINARY_DIR = E:\prog\otus_source\03_homework\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/game.dir/depend.make
@@ -72,52 +72,67 @@ CMakeFiles/game.dir/codegen:
 .PHONY : CMakeFiles/game.dir/codegen
 
 CMakeFiles/game.dir/high_scores.cpp.obj: CMakeFiles/game.dir/flags.make
-CMakeFiles/game.dir/high_scores.cpp.obj: E:/prog/otus_source/03.homework_source-12995-dca15c/high_scores.cpp
+CMakeFiles/game.dir/high_scores.cpp.obj: E:/prog/otus_source/03_homework/high_scores.cpp
 CMakeFiles/game.dir/high_scores.cpp.obj: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\prog\otus_source\03.homework_source-12995-dca15c\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/game.dir/high_scores.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/high_scores.cpp.obj -MF CMakeFiles\game.dir\high_scores.cpp.obj.d -o CMakeFiles\game.dir\high_scores.cpp.obj -c E:\prog\otus_source\03.homework_source-12995-dca15c\high_scores.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\prog\otus_source\03_homework\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/game.dir/high_scores.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/high_scores.cpp.obj -MF CMakeFiles\game.dir\high_scores.cpp.obj.d -o CMakeFiles\game.dir\high_scores.cpp.obj -c E:\prog\otus_source\03_homework\high_scores.cpp
 
 CMakeFiles/game.dir/high_scores.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/high_scores.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\prog\otus_source\03.homework_source-12995-dca15c\high_scores.cpp > CMakeFiles\game.dir\high_scores.cpp.i
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\prog\otus_source\03_homework\high_scores.cpp > CMakeFiles\game.dir\high_scores.cpp.i
 
 CMakeFiles/game.dir/high_scores.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/high_scores.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\prog\otus_source\03.homework_source-12995-dca15c\high_scores.cpp -o CMakeFiles\game.dir\high_scores.cpp.s
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\prog\otus_source\03_homework\high_scores.cpp -o CMakeFiles\game.dir\high_scores.cpp.s
 
 CMakeFiles/game.dir/random_value.cpp.obj: CMakeFiles/game.dir/flags.make
-CMakeFiles/game.dir/random_value.cpp.obj: E:/prog/otus_source/03.homework_source-12995-dca15c/random_value.cpp
+CMakeFiles/game.dir/random_value.cpp.obj: E:/prog/otus_source/03_homework/random_value.cpp
 CMakeFiles/game.dir/random_value.cpp.obj: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\prog\otus_source\03.homework_source-12995-dca15c\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/game.dir/random_value.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/random_value.cpp.obj -MF CMakeFiles\game.dir\random_value.cpp.obj.d -o CMakeFiles\game.dir\random_value.cpp.obj -c E:\prog\otus_source\03.homework_source-12995-dca15c\random_value.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\prog\otus_source\03_homework\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/game.dir/random_value.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/random_value.cpp.obj -MF CMakeFiles\game.dir\random_value.cpp.obj.d -o CMakeFiles\game.dir\random_value.cpp.obj -c E:\prog\otus_source\03_homework\random_value.cpp
 
 CMakeFiles/game.dir/random_value.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/random_value.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\prog\otus_source\03.homework_source-12995-dca15c\random_value.cpp > CMakeFiles\game.dir\random_value.cpp.i
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\prog\otus_source\03_homework\random_value.cpp > CMakeFiles\game.dir\random_value.cpp.i
 
 CMakeFiles/game.dir/random_value.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/random_value.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\prog\otus_source\03.homework_source-12995-dca15c\random_value.cpp -o CMakeFiles\game.dir\random_value.cpp.s
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\prog\otus_source\03_homework\random_value.cpp -o CMakeFiles\game.dir\random_value.cpp.s
 
 CMakeFiles/game.dir/check_value.cpp.obj: CMakeFiles/game.dir/flags.make
-CMakeFiles/game.dir/check_value.cpp.obj: E:/prog/otus_source/03.homework_source-12995-dca15c/check_value.cpp
+CMakeFiles/game.dir/check_value.cpp.obj: E:/prog/otus_source/03_homework/check_value.cpp
 CMakeFiles/game.dir/check_value.cpp.obj: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\prog\otus_source\03.homework_source-12995-dca15c\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/game.dir/check_value.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/check_value.cpp.obj -MF CMakeFiles\game.dir\check_value.cpp.obj.d -o CMakeFiles\game.dir\check_value.cpp.obj -c E:\prog\otus_source\03.homework_source-12995-dca15c\check_value.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\prog\otus_source\03_homework\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/game.dir/check_value.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/check_value.cpp.obj -MF CMakeFiles\game.dir\check_value.cpp.obj.d -o CMakeFiles\game.dir\check_value.cpp.obj -c E:\prog\otus_source\03_homework\check_value.cpp
 
 CMakeFiles/game.dir/check_value.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/check_value.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\prog\otus_source\03.homework_source-12995-dca15c\check_value.cpp > CMakeFiles\game.dir\check_value.cpp.i
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\prog\otus_source\03_homework\check_value.cpp > CMakeFiles\game.dir\check_value.cpp.i
 
 CMakeFiles/game.dir/check_value.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/check_value.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\prog\otus_source\03.homework_source-12995-dca15c\check_value.cpp -o CMakeFiles\game.dir\check_value.cpp.s
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\prog\otus_source\03_homework\check_value.cpp -o CMakeFiles\game.dir\check_value.cpp.s
+
+CMakeFiles/game.dir/load_save_table.cpp.obj: CMakeFiles/game.dir/flags.make
+CMakeFiles/game.dir/load_save_table.cpp.obj: E:/prog/otus_source/03_homework/load_save_table.cpp
+CMakeFiles/game.dir/load_save_table.cpp.obj: CMakeFiles/game.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\prog\otus_source\03_homework\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/game.dir/load_save_table.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/load_save_table.cpp.obj -MF CMakeFiles\game.dir\load_save_table.cpp.obj.d -o CMakeFiles\game.dir\load_save_table.cpp.obj -c E:\prog\otus_source\03_homework\load_save_table.cpp
+
+CMakeFiles/game.dir/load_save_table.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/load_save_table.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\prog\otus_source\03_homework\load_save_table.cpp > CMakeFiles\game.dir\load_save_table.cpp.i
+
+CMakeFiles/game.dir/load_save_table.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/load_save_table.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\prog\otus_source\03_homework\load_save_table.cpp -o CMakeFiles\game.dir\load_save_table.cpp.s
 
 # Object files for target game
 game_OBJECTS = \
 "CMakeFiles/game.dir/high_scores.cpp.obj" \
 "CMakeFiles/game.dir/random_value.cpp.obj" \
-"CMakeFiles/game.dir/check_value.cpp.obj"
+"CMakeFiles/game.dir/check_value.cpp.obj" \
+"CMakeFiles/game.dir/load_save_table.cpp.obj"
 
 # External object files for target game
 game_EXTERNAL_OBJECTS =
@@ -125,11 +140,12 @@ game_EXTERNAL_OBJECTS =
 game.exe: CMakeFiles/game.dir/high_scores.cpp.obj
 game.exe: CMakeFiles/game.dir/random_value.cpp.obj
 game.exe: CMakeFiles/game.dir/check_value.cpp.obj
+game.exe: CMakeFiles/game.dir/load_save_table.cpp.obj
 game.exe: CMakeFiles/game.dir/build.make
 game.exe: CMakeFiles/game.dir/linkLibs.rsp
 game.exe: CMakeFiles/game.dir/objects1.rsp
 game.exe: CMakeFiles/game.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=E:\prog\otus_source\03.homework_source-12995-dca15c\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable game.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=E:\prog\otus_source\03_homework\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable game.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\game.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -141,6 +157,6 @@ CMakeFiles/game.dir/clean:
 .PHONY : CMakeFiles/game.dir/clean
 
 CMakeFiles/game.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\prog\otus_source\03.homework_source-12995-dca15c E:\prog\otus_source\03.homework_source-12995-dca15c E:\prog\otus_source\03.homework_source-12995-dca15c\build E:\prog\otus_source\03.homework_source-12995-dca15c\build E:\prog\otus_source\03.homework_source-12995-dca15c\build\CMakeFiles\game.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\prog\otus_source\03_homework E:\prog\otus_source\03_homework E:\prog\otus_source\03_homework\build E:\prog\otus_source\03_homework\build E:\prog\otus_source\03_homework\build\CMakeFiles\game.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/game.dir/depend
 
