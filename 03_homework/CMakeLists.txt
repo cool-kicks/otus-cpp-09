@@ -7,6 +7,7 @@ add_executable(
 	high_scores.cpp
 	random_value.cpp
 	check_value.cpp
+	load_save_table.cpp
 )
 
 

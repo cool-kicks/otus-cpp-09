@@ -8,9 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/prog/otus_source/03.homework_source-12995-dca15c/check_value.cpp" "CMakeFiles/game.dir/check_value.cpp.obj" "gcc" "CMakeFiles/game.dir/check_value.cpp.obj.d"
-  "E:/prog/otus_source/03.homework_source-12995-dca15c/high_scores.cpp" "CMakeFiles/game.dir/high_scores.cpp.obj" "gcc" "CMakeFiles/game.dir/high_scores.cpp.obj.d"
-  "E:/prog/otus_source/03.homework_source-12995-dca15c/random_value.cpp" "CMakeFiles/game.dir/random_value.cpp.obj" "gcc" "CMakeFiles/game.dir/random_value.cpp.obj.d"
+  "E:/prog/otus_source/03_homework/check_value.cpp" "CMakeFiles/game.dir/check_value.cpp.obj" "gcc" "CMakeFiles/game.dir/check_value.cpp.obj.d"
+  "E:/prog/otus_source/03_homework/high_scores.cpp" "CMakeFiles/game.dir/high_scores.cpp.obj" "gcc" "CMakeFiles/game.dir/high_scores.cpp.obj.d"
+  "E:/prog/otus_source/03_homework/load_save_table.cpp" "CMakeFiles/game.dir/load_save_table.cpp.obj" "gcc" "CMakeFiles/game.dir/load_save_table.cpp.obj.d"
+  "E:/prog/otus_source/03_homework/random_value.cpp" "CMakeFiles/game.dir/random_value.cpp.obj" "gcc" "CMakeFiles/game.dir/random_value.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -3,6 +3,7 @@
 #include <string>
 #include "random_value.h"
 #include "check_value.h"
+#include "load_save_table.h"
 int max_value = 100;
 
 
@@ -11,8 +12,14 @@ int main(int argc, char** argv) {
 
 const std::string high_scores_filename = "high_scores.txt";
 
+std::ofstream check_file(high_scores_filename, std::ios::app);
+check_file.close();
+
+std::string usernames[MAX_USERS];
+    int best_scores[MAX_USERS];
+    int u_count = 0;
+
 if (argc >= 2 && (std::string(argv[1]) == "-max" || std::string(argv[1]) == "-level")){
-	// Get the last high score
 	//std::cout << "Enter your high score:" << std::endl;
 			if (argc >= 3 && (
     (std::string(argv[1]) == "-level" && std::string(argv[2]) == "-max") ||
@@ -32,16 +39,11 @@ if (argc >= 2 && (std::string(argv[1]) == "-max" || std::string(argv[1]) == "-le
 	}
 	else if(std::string(argv[1]) == "-max"){
 		max_value = std::stoi(argv[2]);
-	std::cout << "Level set, max_value = " << max_value << std::endl;
+		std::cout << "Level set, max_value = " << max_value << std::endl;
 	
-	//std::cin >> attempts_count;
-	//if (std::cin.fail()) {
-		//std::cout << "Bad value!" << std::endl;
-		//return -1;
-	//}
-};
+	}
 
-if (argc >= 2 && std::string(argv[1]) == "-table"){
+if (argc == 2 && std::string(argv[1]) == "-table"){
 	std::ifstream in_file{high_scores_filename};
 		if (!in_file.is_open()) {
 			std::cout << "Failed to open file for read: " << high_scores_filename << "!" << std::endl;
@@ -49,16 +51,11 @@ if (argc >= 2 && std::string(argv[1]) == "-table"){
 		}
 	std::cout << "High scores table:" << std::endl;
 
-		std::string usernames[100];
-		int best_scores[100];
-		int u_count = 0; 
-
 		std::string username;
 		int score = 0;
 
 		while (in_file >> username >> score) {
 			bool found = false;
-
 			for(int i = 0; i < u_count; ++i){
 				if(usernames[i].compare(username) == 0){
 					if(score < best_scores[i]){
@@ -70,6 +67,10 @@ if (argc >= 2 && std::string(argv[1]) == "-table"){
 			}
 			
 			if(!found){
+				if(u_count >= MAX_USERS) {
+        		std::cout << "Warning: Maximum limit!" << std::endl;
+        		break;
+				}
 				usernames[u_count] = username;
 				best_scores[u_count] = score;
 				++u_count;
@@ -96,54 +97,12 @@ if (argc >= 2 && std::string(argv[1]) == "-table"){
 	std::string user_name;
 	std::cin >> user_name;
 
-int attempts_count = check_foo();
+int attempts_count = check_foo(max_value);
 	// Write new high score to the records table
-
-	//{
-		// We should open the output file in the append mode - we don't want
-		// to erase previous results.
-		//std::ofstream out_file{high_scores_filename, std::ios_base::app};
-		//if (!out_file.is_open()) {
-			//std::cout << "Failed to open file for write: " << high_scores_filename << "!" << std::endl;
-			//return -1;
-		//}
-
-		// Append new results to the table:
-	//} // end of score here just to mark end of the logic block of code
-
+	// Append new results to the table:
 	// Read the high score file and print all results
-
-	std::string usernames[100];
-    int best_scores[100];
-    int u_count = 0;
-
-	{
-		std::ifstream in_file{high_scores_filename};
-		if (!in_file.is_open()) {
-			std::cout << "Failed to open file for read: " << high_scores_filename << "!" << std::endl;
-			return -1;
-		}
-
-		std::string username;
-        int score;
-		while (in_file >> username >> score){
-
-			bool found = false;
-			for(int i = 0; i < u_count; ++i){
-				if(usernames[i].compare(username) == 0){
-					if(score < best_scores[i]){
-						best_scores[i] = score;
-					}
-					found = true;
-					break;	
-				}
-			}
-			if(!found){
-				usernames[u_count] = username;
-				best_scores[u_count] = score;
-				++u_count;
-			}
-		}
+	u_count = load_high_scores(high_scores_filename, usernames, best_scores);
+    if (u_count < 0) return -1;
 
 		bool found = false;
 		for(int i = 0; i < u_count; ++i){
@@ -163,25 +122,15 @@ int attempts_count = check_foo();
 			++u_count;
 		}
 
-		{
-        std::ofstream out_file{high_scores_filename, std::ios_base::trunc};
-        if (!out_file.is_open()) {
-            std::cout << "Failed to open file for write: " << high_scores_filename << "!" << std::endl;
-            return -1;
-        }
-
-        for (int i = 0; i < u_count; ++i) {
-            out_file << usernames[i] << ' ' << best_scores[i] << '\n';
-        }
-    }
+	save_high_scores(high_scores_filename, usernames, best_scores, u_count);
 		
 
-		std::cout << "\nHigh scores table:\n";
+	std::cout << "\nHigh scores table:\n";
     for (int i = 0; i < u_count; ++i) {
         std::cout << usernames[i] << '\t' << best_scores[i] << '\n';
     }
 
-	}
+	
 
 	return 0;
 }

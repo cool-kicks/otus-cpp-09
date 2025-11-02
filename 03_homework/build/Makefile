@@ -56,10 +56,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = E:\prog\otus_source\03.homework_source-12995-dca15c
+CMAKE_SOURCE_DIR = E:\prog\otus_source\03_homework
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = E:\prog\otus_source\03.homework_source-12995-dca15c\build
+CMAKE_BINARY_DIR = E:\prog\otus_source\03_homework\build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\prog\otus_source\03.homework_source-12995-dca15c\build\CMakeFiles E:\prog\otus_source\03.homework_source-12995-dca15c\build\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\prog\otus_source\03_homework\build\CMakeFiles E:\prog\otus_source\03_homework\build\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\prog\otus_source\03.homework_source-12995-dca15c\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\prog\otus_source\03_homework\build\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -176,6 +176,30 @@ high_scores.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\game.dir\build.make CMakeFiles/game.dir/high_scores.cpp.s
 .PHONY : high_scores.cpp.s
 
+load_save_table.obj: load_save_table.cpp.obj
+.PHONY : load_save_table.obj
+
+# target to build an object file
+load_save_table.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\game.dir\build.make CMakeFiles/game.dir/load_save_table.cpp.obj
+.PHONY : load_save_table.cpp.obj
+
+load_save_table.i: load_save_table.cpp.i
+.PHONY : load_save_table.i
+
+# target to preprocess a source file
+load_save_table.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\game.dir\build.make CMakeFiles/game.dir/load_save_table.cpp.i
+.PHONY : load_save_table.cpp.i
+
+load_save_table.s: load_save_table.cpp.s
+.PHONY : load_save_table.s
+
+# target to generate assembly for a file
+load_save_table.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\game.dir\build.make CMakeFiles/game.dir/load_save_table.cpp.s
+.PHONY : load_save_table.cpp.s
+
 random_value.obj: random_value.cpp.obj
 .PHONY : random_value.obj
 
@@ -215,6 +239,9 @@ help:
 	@echo ... high_scores.obj
 	@echo ... high_scores.i
 	@echo ... high_scores.s
+	@echo ... load_save_table.obj
+	@echo ... load_save_table.i
+	@echo ... load_save_table.s
 	@echo ... random_value.obj
 	@echo ... random_value.i
 	@echo ... random_value.s

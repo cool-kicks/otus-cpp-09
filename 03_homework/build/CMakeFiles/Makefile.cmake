@@ -39,7 +39,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-windres.cmake"
   "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows.cmake"
   "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake"
-  "E:/prog/otus_source/03.homework_source-12995-dca15c/CMakeLists.txt"
+  "E:/prog/otus_source/03_homework/CMakeLists.txt"
   "CMakeFiles/4.1.0/CMakeCCompiler.cmake"
   "CMakeFiles/4.1.0/CMakeCXXCompiler.cmake"
   "CMakeFiles/4.1.0/CMakeRCCompiler.cmake"
