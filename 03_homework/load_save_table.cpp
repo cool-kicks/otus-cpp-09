@@ -51,3 +51,7 @@ void save_high_scores(const std::string& filename, const std::string usernames[]
         out_file << usernames[i] << ' ' << best_scores[i] << '\n';
     }
 }
+
+void print_table_score(const std::string usernames[], const int best_scores[], int u_count){
+    
+}
