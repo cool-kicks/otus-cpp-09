@@ -84,9 +84,7 @@ if (argc == 2 && std::string(argv[1]) == "-table"){
 		
 		}
 		// Print the information to the screen
-			for(int i = 0; i < u_count; ++i){
-			std::cout << usernames[i] << '\t' << best_scores[i] << std::endl;
-			}
+		print_table_score(usernames, best_scores, u_count);
 	return 0;
 	
 };
@@ -124,13 +122,7 @@ int attempts_count = check_foo(max_value);
 
 	save_high_scores(high_scores_filename, usernames, best_scores, u_count);
 		
-
-	std::cout << "\nHigh scores table:\n";
-    for (int i = 0; i < u_count; ++i) {
-        std::cout << usernames[i] << '\t' << best_scores[i] << '\n';
-    }
-
-	
+	print_table_score(usernames, best_scores, u_count);
 
 	return 0;
 }
