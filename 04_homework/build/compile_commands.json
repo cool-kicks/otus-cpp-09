@@ -1,0 +1,494 @@
+[
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -Wpedantic -o CMakeFiles\\physics.dir\\main.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\main.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/main.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/CMakeFiles/physics.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -Wpedantic -o CMakeFiles\\physics.dir\\World.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\World.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/World.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/CMakeFiles/physics.dir/World.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -Wpedantic -o CMakeFiles\\physics.dir\\Ball.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\Ball.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/Ball.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/CMakeFiles/physics.dir/Ball.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -Wpedantic -o CMakeFiles\\physics.dir\\Physics.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\Physics.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/Physics.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/CMakeFiles/physics.dir/Physics.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -Wpedantic -o CMakeFiles\\physics.dir\\Color.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\Color.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/Color.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/CMakeFiles/physics.dir/Color.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -Wpedantic -o CMakeFiles\\physics.dir\\Painter.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\Painter.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/Painter.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/CMakeFiles/physics.dir/Painter.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -Wpedantic -o CMakeFiles\\physics.dir\\black_box\\Application.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\black_box\\Application.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/black_box/Application.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/CMakeFiles/physics.dir/black_box/Application.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -Wpedantic -o CMakeFiles\\physics.dir\\black_box\\View.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\black_box\\View.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/black_box/View.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/CMakeFiles/physics.dir/black_box/View.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -Wpedantic -o CMakeFiles\\physics.dir\\black_box\\PainterImpl.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\black_box\\PainterImpl.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/black_box/PainterImpl.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/CMakeFiles/physics.dir/black_box/PainterImpl.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\Clock.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\System\\Clock.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/System/Clock.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\Err.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\System\\Err.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/System/Err.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\Lock.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\System\\Lock.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/System/Lock.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Lock.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\Mutex.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\System\\Mutex.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/System/Mutex.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Mutex.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\Sleep.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\System\\Sleep.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/System/Sleep.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\String.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\System\\String.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/System/String.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\Thread.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\System\\Thread.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/System/Thread.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Thread.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\ThreadLocal.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\System\\ThreadLocal.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/System/ThreadLocal.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/ThreadLocal.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\Time.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\System\\Time.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/System/Time.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Time.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\FileInputStream.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\System\\FileInputStream.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/System/FileInputStream.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\MemoryInputStream.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\System\\MemoryInputStream.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/System/MemoryInputStream.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\Win32\\ClockImpl.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\ClockImpl.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/System/Win32/ClockImpl.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ClockImpl.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\Win32\\MutexImpl.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\MutexImpl.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/System/Win32/MutexImpl.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/MutexImpl.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\Win32\\SleepImpl.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\SleepImpl.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/System/Win32/SleepImpl.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/SleepImpl.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\Win32\\ThreadImpl.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\ThreadImpl.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/System/Win32/ThreadImpl.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadImpl.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\System\\CMakeFiles\\sfml-system.dir\\Win32\\ThreadLocalImpl.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\System\\Win32\\ThreadLocalImpl.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/System/Win32/ThreadLocalImpl.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadLocalImpl.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Main\\CMakeFiles\\sfml-main.dir\\MainWin32.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Main\\MainWin32.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Main/MainWin32.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Clipboard.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Clipboard.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Clipboard.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Context.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Context.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Context.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Cursor.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Cursor.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Cursor.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\GlContext.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\GlContext.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/GlContext.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\GlResource.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\GlResource.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/GlResource.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Joystick.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Joystick.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Joystick.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\JoystickManager.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\JoystickManager.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/JoystickManager.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Keyboard.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Keyboard.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Keyboard.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Mouse.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Mouse.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Mouse.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Touch.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Touch.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Touch.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Sensor.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Sensor.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Sensor.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\SensorManager.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\SensorManager.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/SensorManager.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\VideoMode.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\VideoMode.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/VideoMode.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Vulkan.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Vulkan.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Vulkan.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Window.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Window.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Window.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\WindowBase.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\WindowBase.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/WindowBase.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\WindowImpl.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\WindowImpl.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/WindowImpl.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Win32\\CursorImpl.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\CursorImpl.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Win32/CursorImpl.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/CursorImpl.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Win32\\ClipboardImpl.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\ClipboardImpl.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Win32/ClipboardImpl.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/ClipboardImpl.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Win32\\InputImpl.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\InputImpl.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Win32/InputImpl.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Win32\\JoystickImpl.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\JoystickImpl.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Win32/JoystickImpl.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Win32\\SensorImpl.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\SensorImpl.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Win32/SensorImpl.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/SensorImpl.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Win32\\VideoModeImpl.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\VideoModeImpl.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Win32/VideoModeImpl.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VideoModeImpl.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Win32\\VulkanImplWin32.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\VulkanImplWin32.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Win32/VulkanImplWin32.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VulkanImplWin32.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Win32\\WindowImplWin32.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\WindowImplWin32.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Win32/WindowImplWin32.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WindowImplWin32.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DUNICODE -D_UNICODE -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/vulkan -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Window\\CMakeFiles\\sfml-window.dir\\Win32\\WglContext.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Window\\Win32\\WglContext.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Window/Win32/WglContext.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\BlendMode.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\BlendMode.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/BlendMode.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\Color.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Color.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/Color.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Color.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\Font.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Font.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/Font.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\Glsl.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Glsl.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/Glsl.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\GLCheck.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\GLCheck.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/GLCheck.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\GLExtensions.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\GLExtensions.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/GLExtensions.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\Image.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Image.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/Image.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\ImageLoader.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\ImageLoader.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/ImageLoader.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\RenderStates.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderStates.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/RenderStates.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\RenderTexture.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTexture.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/RenderTexture.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\RenderTarget.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTarget.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/RenderTarget.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\RenderWindow.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderWindow.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/RenderWindow.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\Shader.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Shader.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/Shader.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\Texture.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Texture.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/Texture.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\TextureSaver.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\TextureSaver.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/TextureSaver.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\Transform.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Transform.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/Transform.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\Transformable.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Transformable.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/Transformable.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\View.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\View.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/View.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\Vertex.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Vertex.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/Vertex.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Vertex.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\Shape.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Shape.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/Shape.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\CircleShape.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\CircleShape.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/CircleShape.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\RectangleShape.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RectangleShape.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/RectangleShape.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\ConvexShape.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\ConvexShape.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/ConvexShape.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\Sprite.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Sprite.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/Sprite.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\Text.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\Text.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/Text.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\VertexArray.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\VertexArray.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/VertexArray.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\VertexBuffer.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\VertexBuffer.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/VertexBuffer.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\RenderTextureImpl.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTextureImpl.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImpl.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImpl.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\RenderTextureImplFBO.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTextureImplFBO.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.obj"
+},
+{
+  "directory": "E:/pr/otus09/otus-cpp-09/04_homework/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/include -IE:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/stb_image -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/glad/include -isystem E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/extlibs/headers/freetype2 -O0 -g -Xclang -gcodeview -std=gnu++17 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option -o _deps\\sfml-build\\src\\SFML\\Graphics\\CMakeFiles\\sfml-graphics.dir\\RenderTextureImplDefault.cpp.obj -c E:\\pr\\otus09\\otus-cpp-09\\04_homework\\build\\_deps\\sfml-src\\src\\SFML\\Graphics\\RenderTextureImplDefault.cpp",
+  "file": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplDefault.cpp",
+  "output": "E:/pr/otus09/otus-cpp-09/04_homework/build/_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.obj"
+}
+]
