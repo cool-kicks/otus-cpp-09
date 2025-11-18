@@ -65,7 +65,7 @@ World::World(const std::string& worldFilePath) {
         // объекта класса Ball со свойствами, прочитанными
         // выше, и его помещения в контейнер balls
         // Создание объекта Ball
-        Ball ball(Point{x, y}, radius, Color{red, green, blue});
+        Ball ball(Point{x, y}, radius, Color{red, green, blue},Velocity(Point{vx, vy}));
 
         // Задание скорости
 
