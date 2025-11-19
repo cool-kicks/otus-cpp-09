@@ -1,7 +1,7 @@
 #include "Ball.hpp"
 #include <cmath>
 
-constexpr double PI = 3.14159265358979323846;
+
 
 /**
  * Задает скорость объекта
@@ -67,7 +67,7 @@ double Ball::getRadius() const {
  * плотностью. В этом случае масса в условных единицах
  * эквивалентна объему: PI * radius^3 * 4. / 3.
  */
-double Ball::getMass() const {
+/*double Ball::getMass() const {
     // TODO: место для доработки
     return 4.0 / 3.0 * PI * radius * radius * radius;
-}
+}*/
