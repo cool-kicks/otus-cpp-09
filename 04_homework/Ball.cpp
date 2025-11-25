@@ -3,20 +3,13 @@
 
 
 
-/**
- * Задает скорость объекта
- * @param velocity новое значение скорости
- */
+
 void Ball::setVelocity(const Velocity& v) {
-    // TODO: место для доработки
     velocity = v;
 }
 
-/**
- * @return скорость объекта
- */
+
 Velocity Ball::getVelocity() const {
-    // TODO: место для доработки
     return velocity;
 }
 
@@ -29,7 +22,6 @@ Velocity Ball::getVelocity() const {
  * @param painter контекст отрисовки
  */
 void Ball::draw(Painter& painter) const {
-    // TODO: место для доработки
     painter.draw(center, radius, color);
 }
 
@@ -38,7 +30,6 @@ void Ball::draw(Painter& painter) const {
  * @param center новый центр объекта
  */
 void Ball::setCenter(const Point& c) {
-    // TODO: место для доработки
     center = c;
 }
 
@@ -46,7 +37,6 @@ void Ball::setCenter(const Point& c) {
  * @return центр объекта
  */
 Point Ball::getCenter() const {
-    // TODO: место для доработки
     return center;
 }
 
@@ -56,9 +46,9 @@ Point Ball::getCenter() const {
  * не требуется
  */
 double Ball::getRadius() const {
-    // TODO: место для доработки
     return radius;
 }
+
 
 /**
  * @brief Возвращает массу объекта

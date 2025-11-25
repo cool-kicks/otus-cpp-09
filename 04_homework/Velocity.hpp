@@ -4,7 +4,8 @@
 class Velocity {
   public:
     Velocity() = default;
-
+    
+    Velocity(double x, double y) : vec{x, y} {}
     Velocity(const Point& vector) {
         setVector(vector);
     }
@@ -20,3 +21,10 @@ class Velocity {
   private:
     Point vec;
 };
+
+inline std::istream& operator>>(std::istream& stream, Velocity& v) {
+    Point p;
+    stream >> p;        
+    v.setVector(p);     
+    return stream;
+}
