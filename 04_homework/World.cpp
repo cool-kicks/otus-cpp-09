@@ -1,6 +1,8 @@
 #include "World.hpp"
 #include "Painter.hpp"
 #include <fstream>
+#include <iostream>
+
 
 // Длительность одного тика симуляции.
 // Подробнее см. update()
@@ -14,67 +16,30 @@ static constexpr double timePerTick = 0.001;
 World::World(const std::string& worldFilePath) {
 
     std::ifstream stream(worldFilePath);
-    /**
-     * TODO: хорошее место для улучшения.
-     * Чтение границ мира из модели
-     * Обратите внимание, что здесь и далее мы многократно
-     * читаем в объект типа Point, последовательно
-     * заполняя координаты x и у. Если что-то делаем
-     * многократно - хорошо бы вынести это в функцию
-     * и не дублировать код...
-     */
-    stream >> topLeft.x >> topLeft.y >> bottomRight.x >> bottomRight.y;
+    if (!stream.is_open()) {
+        std::cerr << "Failed to open world file: " << worldFilePath << std::endl;
+        return;
+    }
+  
+    stream >> topLeft >> bottomRight;
     physics.setWorldBox(topLeft, bottomRight);
 
-    /**
-     * TODO: хорошее место для улучшения.
-     * (x, y) и (vx, vy) - составные части объекта, также
-     * как и (red, green, blue). Опять же, можно упростить
-     * этот код, научившись читать сразу Point, Color...
-     */
-    double x;
-    double y;
-    double vx;
-    double vy;
-    double radius;
+    physics.setCollisionCallback([this](const Point& p) {
+        spawnDust(p, 20);
+    });
 
-    double red;
-    double green;
-    double blue;
 
-    bool isCollidable;
+    while (stream.good()) {
+        Point center;
+        Velocity vel;
+        Color color;
+        double radius;
+        bool isCollidable;
 
-    // Здесь не хватает обработки ошибок, но на текущем
-    // уровне прохождения курса нас это устраивает
-    while (stream.peek() != EOF && stream.good()) {
-        // Читаем координаты центра шара (x, y) и вектор
-        // его скорости (vx, vy)
-        stream >> x >> y >> vx >> vy;
-        // Читаем три составляющие цвета шара
-        stream >> red >> green >> blue;
-        // Читаем радиус шара
-        stream >> radius;
-        // Читаем свойство шара isCollidable, которое
-        // указывает, требуется ли обрабатывать пересечение
-        // шаров как столкновение. Если true - требуется.
-        // В базовой части задания этот параметр
-        stream >> std::boolalpha >> isCollidable;
+        stream >> center >> vel >> color >> radius >> std::boolalpha >> isCollidable;
+        if (!stream.good()) break;
 
-        // TODO: место для доработки.
-        // Здесь не хватает самого главного - создания
-        // объекта класса Ball со свойствами, прочитанными
-        // выше, и его помещения в контейнер balls
-        // Создание объекта Ball
-        Ball ball(Point{x, y}, radius, Color{red, green, blue},Velocity(Point{vx, vy}));
-
-        // Задание скорости
-
-        // Добавление шара в вектор
-        balls.push_back(ball);
-        // После того как мы каким-то образом
-        // сконструируем объект Ball ball;
-        // добавьте его в конец контейнера вызовом
-        // balls.push_back(ball);
+        balls.emplace_back(center, radius, color, vel, isCollidable);
         
     }
 }
@@ -89,6 +54,9 @@ void World::show(Painter& painter) const {
     for (const Ball& ball : balls) {
         ball.draw(painter);
     }
+
+    for (const auto& d : dusts)
+    d.draw(painter);
 }
 
 /// @brief Обновляет состояние мира
@@ -114,4 +82,29 @@ void World::update(double time) {
     restTime = time - double(ticks) * timePerTick;
 
     physics.update(balls, ticks);
+
+    for (auto& d : dusts)
+    d.update(timePerTick);
+
+    dusts.erase(
+    std::remove_if(dusts.begin(), dusts.end(),
+                   [](const Dust& d){ return d.expired(); }),
+    dusts.end());
+}
+
+void World::spawnDust(const Point& pos, int amount)
+{
+    for (int i = 0; i < amount; i++) {
+        double angle = (rand() / double(RAND_MAX)) * 2.0 * PI;
+        double speed = (rand() / double(RAND_MAX)) * 120 + 30;
+
+        Velocity v(speed * cos(angle), speed * sin(angle));
+
+        double lifetime = (rand() / double(RAND_MAX)) * 0.5 + 0.3;
+        double radius = (rand() / double(RAND_MAX)) * 10 +5;
+
+        Color col(1.0, 0.8, 0.3);
+
+        dusts.emplace_back(pos, v, lifetime, radius, col);
+    }
 }
