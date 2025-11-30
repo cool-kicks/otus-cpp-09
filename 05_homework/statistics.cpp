@@ -1,13 +1,14 @@
 #include <iostream>
-#include <limits>
 #include <vector>
-#include <Algorithm>
+#include <algorithm>
+#include <random>
+#include <chrono>
 #include <cmath>
+#include <limits>
 
 class IStatistics {
 public:
 	virtual ~IStatistics() {}
-
 	virtual void update(double next) = 0;
 	virtual double eval() const = 0;
 	virtual const char * name() const = 0;
@@ -15,7 +16,7 @@ public:
 
 class Min : public IStatistics {
 public:
-	Min() : m_min{std::numeric_limits<double>::min()} {}
+	Min() : m_min{std::numeric_limits<double>::max()} {}
 	void update(double next) override {
 		if (next < m_min) {
 			m_min = next;
@@ -27,14 +28,13 @@ public:
 	const char * name() const override {
 		return "min";
 	}
-
 private:
 	double m_min;
 };
 
 class Max : public IStatistics {
 public:
-	Max() :  m_max{std::numeric_limits<double>::max()}{}
+	Max() :  m_max{std::numeric_limits<double>::lowest()}{}
 	void update(double next) override{
 		if(next > m_max){
 			m_max = next;
@@ -66,7 +66,7 @@ public:
 
 private:
 	double m_sum;
-	double m_count;
+	size_t m_count;
 };
 
 class Stda : public IStatistics {
@@ -100,8 +100,15 @@ public:
         std::vector<double> sorted = m_values;
         std::sort(sorted.begin(), sorted.end());
 
-        size_t idx = std::floor(m_pct*(sorted.size()-1));
-        return sorted[idx];
+        double idx = m_pct * (sorted.size() - 1);
+        size_t idx_below = static_cast<size_t>(std::floor(idx));
+        size_t idx_above = static_cast<size_t>(std::ceil(idx));
+
+        if (idx_below == idx_above)
+            return sorted[idx_below];
+
+        double fraction = idx - idx_below;
+        return sorted[idx_below] + fraction * (sorted[idx_above] - sorted[idx_below]);
     }
     const char * name() const override {
         static char buf[16];
@@ -113,19 +120,30 @@ private:
     double m_pct;
 };
 
+
+
+
 int main() {
 
-	const size_t statistics_count = 1;
+	std::vector<double> values;
+    double val = 0;
+    while (std::cin >> val) {
+        values.push_back(val);
+    }
+
+	const size_t statistics_count = 6;
 	IStatistics *statistics[statistics_count];
 
 	statistics[0] = new Min{};
+	statistics[1] = new Max{};
+	statistics[2] = new Mean{};
+	statistics[3] = new Stda{values};
+	statistics[4] = new Percentile(values, 0.90);
+	statistics[5] = new Percentile(values, 0.95);
 
-	double val = 0;
-	while (std::cin >> val) {
-		for (size_t i = 0; i < statistics_count; ++i) {
-			statistics[i]->update(val);
-		}
-	}
+	for (double x : values)
+        for (size_t i = 0; i < statistics_count; ++i)
+            statistics[i]->update(x);
 
 	// Handle invalid input data
 	if (!std::cin.eof() && !std::cin.good()) {
