@@ -52,7 +52,7 @@ private:
 
 class Mean : public IStatistics{
 public:
-	Mean() : m_sum{0}, m_count{0} {}
+	Mean() : m_sum{0.0}, m_count{0} {}
 	void update(double next) override{
 		m_sum += next;
 		m_count++;
@@ -71,29 +71,39 @@ private:
 
 class Stda : public IStatistics {
 public:
-    Stda(std::vector<double>& ref) : m_values(ref) {}
-    void update(double next) override {}
+    void update(double next) override {
+        m_values.push_back(next);
+    }
+
     double eval() const override {
         if (m_values.size() <= 1) return 0;
+
         double sum = 0;
-        for(double v: m_values) sum += v;
+        for (double v : m_values) sum += v;
         double mean = sum / m_values.size();
-        
+
         double acc = 0;
-        for(double v: m_values)
-            acc += (v - mean)*(v - mean);
+        for (double v : m_values)
+            acc += (v - mean) * (v - mean);
 
         return std::sqrt(acc / m_values.size());
     }
-    const char * name() const override { return "std"; }
+
+    const char* name() const override { return "std"; }
+
 private:
-    std::vector<double> &m_values;
+    std::vector<double> m_values;
 };
+
 
 class Percentile : public IStatistics {
 public:
-    Percentile(std::vector<double>& ref, double pct) : m_values(ref), m_pct(pct) {}
-    void update(double) override {}
+    Percentile(double pct) : m_pct(pct) {}
+
+    void update(double next) override {
+        m_values.push_back(next);
+    }
+
     double eval() const override {
         if (m_values.empty()) return 0;
 
@@ -110,13 +120,15 @@ public:
         double fraction = idx - idx_below;
         return sorted[idx_below] + fraction * (sorted[idx_above] - sorted[idx_below]);
     }
-    const char * name() const override {
+
+    const char* name() const override {
         static char buf[16];
         sprintf(buf, "pct%.0f", m_pct * 100);
         return buf;
     }
+
 private:
-    std::vector<double>& m_values;
+    std::vector<double> m_values;
     double m_pct;
 };
 
@@ -137,9 +149,9 @@ int main() {
 	statistics[0] = new Min{};
 	statistics[1] = new Max{};
 	statistics[2] = new Mean{};
-	statistics[3] = new Stda{values};
-	statistics[4] = new Percentile(values, 0.90);
-	statistics[5] = new Percentile(values, 0.95);
+	statistics[3] = new Stda{};
+	statistics[4] = new Percentile(0.90);
+	statistics[5] = new Percentile(0.95);
 
 	for (double x : values)
         for (size_t i = 0; i < statistics_count; ++i)
