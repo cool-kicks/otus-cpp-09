@@ -78,11 +78,11 @@ public:
     double eval() const override {
         if (m_values.size() <= 1) return 0;
 
-        double sum = 0;
+        double sum = 0.0;
         for (double v : m_values) sum += v;
         double mean = sum / m_values.size();
 
-        double acc = 0;
+        double acc = 0.0;
         for (double v : m_values)
             acc += (v - mean) * (v - mean);
 
@@ -138,7 +138,7 @@ private:
 int main() {
 
 	std::vector<double> values;
-    double val = 0;
+    double val = 0.0;
     while (std::cin >> val) {
         values.push_back(val);
     }
