@@ -1,8 +1,0 @@
-[
-{
-  "directory": "E:/prog/otus_source/dz/05_homework/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\statistics.dir\\statistics.cpp.obj -c E:\\prog\\otus_source\\dz\\05_homework\\statistics.cpp",
-  "file": "E:/prog/otus_source/dz/05_homework/statistics.cpp",
-  "output": "CMakeFiles/statistics.dir/statistics.cpp.obj"
-}
-]
