@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\check_value.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\check_value.dir/objects.a @CMakeFiles\check_value.dir\objects1.rsp
-C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\check_value.dir/objects.a -Wl,--no-whole-archive -o check_value.exe -Wl,--out-implib,libcheck_value.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\check_value.dir\linkLibs.rsp
